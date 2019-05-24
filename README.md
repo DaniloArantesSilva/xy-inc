@@ -9,13 +9,12 @@ Maven 3.6.0</br>
 Banco de dados MySQL</br>
 Spring</br>
 JPA</br>
-Spring Tool Suite (versão 3.9.5 ou superior)</br>
 JUnit
 
 <h3>Como configurar a aplicação</h3>
 
 <b>.</b> Baixe o projeto com o comando git clone https://github.com/DaniloArantesSilva/xy-inc.git.</br>
-<b>.</b> Abra a IDE Spring Tool Suite e importe o projeto com o Maven: File - Import... - Maven - Existing Maven Projects.</br>
+<b>.</b> Abra a IDE Spring Tool Suite (ou a de sua preferência) e importe o projeto com o Maven: File - Import... - Maven - Existing Maven Projects.</br>
 <b>.</b> Aguarde até o Maven baixar todas as dependências do projeto.</br>
 <b>.</b> Crie um banco de dados no MySQL com o nome xyinc.</br>
 <b>.</b> Caso a senha do seu banco de dados não for a padrão deve ser alterada no arquivo src/main/resources/application.properties.</br>
