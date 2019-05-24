@@ -1,4 +1,4 @@
-package br.com.zup.xyinc.model.controller;
+package br.com.zup.xyinc.controller;
 
 import java.net.URI;
 import java.util.List;
